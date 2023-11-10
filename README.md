@@ -105,7 +105,7 @@ The KengineLogger class takes the following configuration options
 
 
 ## Contributor Alumni
-The Kengine Edge Logger was created for the [Kengine community](https://join.slack.com/t/kenginecommunity/shared_invite/zt-25rig7ul2-m06V0DdYWpFHu~qH3F7DhQ) and generously offered to Kengine by [Jacob Hands](github.com/jahands).
+The Kengine Edge Logger was created for the [Kengine community](https://join.slack.com/t/kenginecommunity/shared_invite/zt-25rig7ul2-m06V0DdYWpFHu~qH3F7DhQ) and generously offered to Kengine by [KhulnaSoft Hands](github.com/khulnasoft).
 
 ### Contributing
 
